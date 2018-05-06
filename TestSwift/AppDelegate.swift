@@ -37,6 +37,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         
         
+
         let forCount = 12
         
         for _ in  0..<forCount {
