@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0612FFD5209ECE690053588D /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0612FFD4209ECE690053588D /* TableViewController.swift */; };
 		069CD13F208BB9A5004738E0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069CD13E208BB9A5004738E0 /* AppDelegate.swift */; };
 		069CD141208BB9A5004738E0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 069CD140208BB9A5004738E0 /* ViewController.swift */; };
 		069CD144208BB9A5004738E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 069CD142208BB9A5004738E0 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0612FFD4209ECE690053588D /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		069CD13B208BB9A5004738E0 /* TestSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		069CD13E208BB9A5004738E0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		069CD140208BB9A5004738E0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 		069CD13D208BB9A5004738E0 /* TestSwift */ = {
 			isa = PBXGroup;
 			children = (
+				0612FFD4209ECE690053588D /* TableViewController.swift */,
 				069CD13E208BB9A5004738E0 /* AppDelegate.swift */,
 				069CD140208BB9A5004738E0 /* ViewController.swift */,
 				069CD142208BB9A5004738E0 /* Main.storyboard */,
@@ -141,6 +144,7 @@
 				069CD141208BB9A5004738E0 /* ViewController.swift in Sources */,
 				069CD13F208BB9A5004738E0 /* AppDelegate.swift in Sources */,
 				069CD147208BB9A5004738E0 /* TestSwift.xcdatamodeld in Sources */,
+				0612FFD5209ECE690053588D /* TableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
