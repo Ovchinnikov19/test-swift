@@ -37,7 +37,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
         
         
-        let forCount = 100
+
+        let forCount = 12
         
         for _ in  0..<forCount {
             print(random(from: 0, to: 9))
